@@ -133,7 +133,8 @@ a, a:visited, a:link {
 }
 
 .container .pill.warn em {
-  color: yellow;
+  color: black;
+  background: yellow;
 }
 
 .container .pill.urgent em {
