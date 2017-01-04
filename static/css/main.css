@@ -137,7 +137,8 @@ a, a:visited, a:link {
 }
 
 .container .pill.urgent em {
-  color: red;
+  color: black;
+  background: red;
 }
 
 .alarming-timeago .timeago.pill.warn {
